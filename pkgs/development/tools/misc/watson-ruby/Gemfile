@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'watson-ruby'
+gem 'watson-ruby', '>= 1.6.3'
