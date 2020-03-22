@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'cbor-diag'
+gem 'cbor-diag', '>= 0.5.2'
