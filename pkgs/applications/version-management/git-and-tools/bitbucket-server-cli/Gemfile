@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'atlassian-stash'
+gem 'atlassian-stash', '>= 0.7.0'
