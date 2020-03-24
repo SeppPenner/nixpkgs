@@ -3,11 +3,11 @@ source 'https://rubygems.org'
 gem 'sensu'
 
 # integration
-gem 'sensu-plugins-influxdb'
+gem 'sensu-plugins-influxdb', '>= 2.0.0'
 
 # checks
-gem 'sensu-plugins-http'
-gem 'sensu-plugins-disk-checks'
-gem 'sensu-plugins-logs'
+gem 'sensu-plugins-http', '>= 3.0.0'
+gem 'sensu-plugins-disk-checks', '>= 5.0.0'
+gem 'sensu-plugins-logs', '>= 2.0.0'
 gem 'sensu-plugins-systemd'
 # gem 'sensu-plugins-process-checks'
